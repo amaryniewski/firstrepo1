@@ -1,6 +1,7 @@
 #projekt
 newThingThatIWantToCheck
 anotherOneChangegugugugugu
+
 zmianyzmianyzmiany
 
 
